@@ -61,3 +61,5 @@ twitter:
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
 disqus: "https-blog-ends-studio"
+
+theme: jekyll-theme-cayman
