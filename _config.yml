@@ -1,11 +1,11 @@
-title: EndBot 공식 블로그
-email: endbot4023@gmail.com
+title: Team 공식 블로그
+email: teamalpha2020kr@gmail.com
 description: 400+ 명령어의 인증된 종합 봇, EndBot
 baseurl: ''
-url: 'https://blog.ends.studio'
+url: 'https://blog.alphakr.xyz'
 timezone: Asia/Seoul 
 
-repository: Tim232/blog.ends.studio
+repository: team-alpha-kr/team-alpha-kr.github.io
 
 permalink: /:year/:month/:day/:title/
 
@@ -53,13 +53,13 @@ image: '/assets/images/default_blog_cover.jpg'
 asset_url: /assets
 
 github_url:
-  username: Tim232
+  username: team-alpha-kr
 twitter:
   username: joonseongi
   
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-disqus: "https-blog-ends-studio"
+disqus: "https-blog-alphakr-xyz"
 
 theme: jekyll-theme-cayman
